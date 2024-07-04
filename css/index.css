@@ -4865,11 +4865,11 @@ blockquote.pullquote.right {
   font-size: larger;
 }
 .note.default.flat {
-  background: #f7f7f7;
+  background: #f8f8f8;
 }
 .note.default.modern {
   border-color: #e1e1e1;
-  background: #f3f3f3;
+  background: #f4f4f4;
   color: #666;
 }
 .note.default.modern a:not(.btn) {
@@ -4895,11 +4895,11 @@ blockquote.pullquote.right {
   color: #777;
 }
 .note.primary.flat {
-  background: #f5f0fa;
+  background: #f6f2fb;
 }
 .note.primary.modern {
   border-color: #e1c2ff;
-  background: #f3daff;
+  background: #f4ddff;
   color: #6f42c1;
 }
 .note.primary.modern a:not(.btn) {
@@ -4925,11 +4925,11 @@ blockquote.pullquote.right {
   color: #6f42c1;
 }
 .note.info.flat {
-  background: #eef7fa;
+  background: #f0f8fb;
 }
 .note.info.modern {
   border-color: #b3e5ef;
-  background: #d9edf7;
+  background: #dceef8;
   color: #31708f;
 }
 .note.info.modern a:not(.btn) {
@@ -4955,11 +4955,11 @@ blockquote.pullquote.right {
   color: #428bca;
 }
 .note.success.flat {
-  background: #eff8f0;
+  background: #f0f9f2;
 }
 .note.success.modern {
   border-color: #d0e6be;
-  background: #dff0d8;
+  background: #e1f1db;
   color: #3c763d;
 }
 .note.success.modern a:not(.btn) {
@@ -4985,11 +4985,11 @@ blockquote.pullquote.right {
   color: #5cb85c;
 }
 .note.warning.flat {
-  background: #fdf8ea;
+  background: #fdf9ec;
 }
 .note.warning.modern {
   border-color: #fae4cd;
-  background: #fcf4e3;
+  background: #fcf4e5;
   color: #8a6d3b;
 }
 .note.warning.modern a:not(.btn) {
@@ -5015,11 +5015,11 @@ blockquote.pullquote.right {
   color: #f0ad4e;
 }
 .note.danger.flat {
-  background: #fcf1f2;
+  background: #fcf3f4;
 }
 .note.danger.modern {
   border-color: #ebcdd2;
-  background: #f2dfdf;
+  background: #f3e1e1;
   color: #a94442;
 }
 .note.danger.modern a:not(.btn) {
